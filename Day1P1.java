@@ -17,5 +17,7 @@ public class Day1P1{
         int index = sc.nextInt();
 
         System.out.println("Element: "+arr[index]);
+
+        sc.close();
     }
 }
